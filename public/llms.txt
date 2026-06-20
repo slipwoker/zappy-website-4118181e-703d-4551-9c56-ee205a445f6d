@@ -1,4 +1,4 @@
-# ניצוץ — Generative Engine Optimization Map
+# sparke — Generative Engine Optimization Map
 
 > An online jewelry store focused on selling jewelry products. The brand identity, style, and unique characteristics are yet to be defined.
 
@@ -86,7 +86,7 @@ _No products are currently configured._
 
 # Business Context (for LLM understanding)
 
-## About ניצוץ
+## About sparke
 An online jewelry store focused on selling jewelry products. The brand identity, style, and unique characteristics are yet to be defined.
 
 ## Target Audience
