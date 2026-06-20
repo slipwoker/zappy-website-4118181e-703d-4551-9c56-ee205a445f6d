@@ -1,0 +1,108 @@
+# ניצוץ — Generative Engine Optimization Map
+
+> An online jewelry store focused on selling jewelry products. The brand identity, style, and unique characteristics are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://-4118181e.zappy5.app
+גלו את חנות התכשיטים המובילה בישראל עם קולקציות מעוצבות לכל רגע בחיים. מאתר ניצוץ תמצאו טבעות, שרשראות וצמידים שיהפכו כל הופעה לזוהרת. הצטרפו עכשיו למסע הנוצץ!
+
+### מדריך מתנות
+https://-4118181e.zappy5.app/gift-guide
+מתלבטים איזה תכשיט להעניק? מדריך המתנות של ניצוץ יוביל אתכם צעד אחר צעד אל הבחירה המושלמת – מיום הולדת ועד הפתעה רומנטית. היכנסו ותנו מתנה בלתי נשכחת!
+
+### חתונה
+https://-4118181e.zappy5.app/wedding
+הופכים את חלום החתונה למציאות נוצצת עם קולקציית כלות וחתנים בלעדית. מטבעות אירוסין ועד תכשיטי חתן – ניצוץ כאן כדי להשלים את הרגע המושלם. גלו את הקסם עכשיו!
+
+### אודות
+https://-4118181e.zappy5.app/about
+הכירו את ניצוץ – מותג שמביא תשוקה, איכות ועיצוב ייחודי לכל תכשיט. אנחנו מאמינים שכל אישה ראויה לזרוח. קראו עוד על החזון שלנו והצטרפו למשפחת הלקוחות המאושרות!
+
+### צור קשר
+https://-4118181e.zappy5.app/contact
+יש שאלה על מידה, התאמה אישית או סתם בא לך להתייעץ? צוות ניצוץ זמין להפוך כל פנייה לחוויית קנייה מושלמת. השאירו פרטים ונחזור אליכם מהר יותר משאתם מדמיינים!
+
+### Products
+https://-4118181e.zappy5.app/products
+המוצרים שלנו - ניצוץ
+
+### Cart
+https://-4118181e.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-4118181e.zappy5.app/checkout
+תשלום
+
+### Login
+https://-4118181e.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-4118181e.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-4118181e.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-4118181e.zappy5.app/product/:slug
+פרטי המוצר - ניצוץ
+
+### Category
+https://-4118181e.zappy5.app/category/:slug
+מוצרים - ניצוץ
+
+### תודה שפניתם אלינו
+https://-4118181e.zappy5.app/thank-you
+ניצוץ - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-4118181e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-4118181e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-4118181e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ניצוץ
+An online jewelry store focused on selling jewelry products. The brand identity, style, and unique characteristics are yet to be defined.
+
+## Target Audience
+- צעירים אופנתיים
+- נותני מתנות גברים
+- קנייני חתונות
+
+## Industry
+Jewelry E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-4118181e.zappy5.app/sitemap.xml
+- Robots: https://-4118181e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-4118181e.zappy5.app/llms-full.txt
+- Products (JSON): https://-4118181e.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-4118181e.zappy5.app/product-feed.xml
